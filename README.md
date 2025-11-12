@@ -1,13 +1,17 @@
 # Pathrise_Project
  Predict whether a participant in a program will be successfully "placed" or Not? How long does it take to find a job?
 
-# how predictive modeling can tackle these challenges:
+ how predictive modeling can tackle these challenges:
  Setting Realistic Expectations
  Identify success key factors influencing placement
  Deeper Market Understanding
 
-# Dataset Source
+---
+
+ Dataset Source
  Pathrise CompanyDataSet had 2544 rows and 16 columns
+
+---
 
 # conclusion
 Students and the unemployed constitute the most significant group joining the Pathrise program, they are the best target for Pathrise to focus on.
